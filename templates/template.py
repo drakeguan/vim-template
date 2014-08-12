@@ -2,12 +2,13 @@
 # -*- coding: utf-8 -*-
 # vim: set hls is ai et sw=4 sts=4 ts=8 nu ft=python:
 #
-# Copyright © %YEAR% %USER% <%MAIL%>
+# Copyright © %YEAR% Shuen-Huei (Drake) Guan <drake.guan@gmail.com>
 #
 # Distributed under terms of the %LICENSE% license.
 
 
 # Built-in modules
+import os
 import sys
 # Additional modules
 
